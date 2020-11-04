@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"day7"},{"l":"すべてのパッケージ","url":"allpackages-index.html"}]
